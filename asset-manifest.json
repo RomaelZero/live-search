@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/live-search/static/css/main.ff02f4b5.css",
+    "main.js": "/live-search/static/js/main.c2bb183f.js",
+    "index.html": "/live-search/index.html",
+    "main.ff02f4b5.css.map": "/live-search/static/css/main.ff02f4b5.css.map",
+    "main.c2bb183f.js.map": "/live-search/static/js/main.c2bb183f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.c2bb183f.js"
+  ]
+}
